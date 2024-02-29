@@ -1,0 +1,6 @@
+@ReadyTechTeaPotRESTAPI_HostAddress = http://localhost:5161
+
+GET {{ReadyTechTeaPotRESTAPI_HostAddress}}/
+Accept: application/json
+
+###
